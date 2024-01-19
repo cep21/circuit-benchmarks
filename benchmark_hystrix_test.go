@@ -1,24 +1,22 @@
-//go:build go1.12
-// +build go1.12
-
-// Note: Some of the packages we benchmark against require go 1.12 so we can only benchmark on go 1.12
 package benchmarking
 
 import (
 	"context"
 	"fmt"
-	gohystrix "github.com/afex/hystrix-go/hystrix"
-	"github.com/cep21/circuit/v4/closers/hystrix"
-	"github.com/cep21/circuit/v4/closers/simplelogic"
-	"github.com/cep21/circuit/v4/metrics/rolling"
-	iandCircuit "github.com/iand/circuit"
-	"github.com/rubyist/circuitbreaker"
-	"github.com/sony/gobreaker"
-	"github.com/streadway/handy/breaker"
 	"strconv"
 	"sync/atomic"
 	"testing"
 	"time"
+
+	gohystrix "github.com/afex/hystrix-go/hystrix"
+	"github.com/cep21/circuit/v4"
+	"github.com/cep21/circuit/v4/closers/hystrix"
+	"github.com/cep21/circuit/v4/closers/simplelogic"
+	"github.com/cep21/circuit/v4/metrics/rolling"
+	iandCircuit "github.com/iand/circuit"
+	circuitbreaker "github.com/rubyist/circuitbreaker"
+	"github.com/sony/gobreaker"
+	"github.com/streadway/handy/breaker"
 )
 
 type circuitConfigs struct {

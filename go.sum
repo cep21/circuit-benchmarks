@@ -13,6 +13,8 @@ github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 h1:EGx4pi6eqNxGa
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/iand/circuit v0.0.7 h1:pf3Nh21rFRu1TyDH++iLM/90N9+qeBESBdGAdzd9EoU=
 github.com/iand/circuit v0.0.7/go.mod h1:lIhzqgQx0HoUz8TijQ9kKZR1TleL0ODORucHexwcl/Y=
+github.com/iand/circuit v0.0.9 h1:v5Os12qAF1D40lM2jp4KDYKc7ibUgXrVx9o/BGn+6Y8=
+github.com/iand/circuit v0.0.9/go.mod h1:lIhzqgQx0HoUz8TijQ9kKZR1TleL0ODORucHexwcl/Y=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea h1:sKwxy1H95npauwu8vtF95vG/syrL0p8fSZo/XlDg5gk=

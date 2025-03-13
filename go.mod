@@ -7,7 +7,7 @@ require (
 	github.com/cep21/circuit/v4 v4.0.0
 	github.com/iand/circuit v0.0.9
 	github.com/rubyist/circuitbreaker v2.2.1+incompatible
-	github.com/sony/gobreaker v1.0.0
+	github.com/sony/gobreaker/v2 v2.1.0
 	github.com/streadway/handy v0.0.0-20200128134331-0f66f006fb2e
 )
 

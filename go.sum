@@ -4,6 +4,8 @@ github.com/cenk/backoff v2.2.1+incompatible h1:djdFT7f4gF2ttuzRKPbMOWgZajgesItGL
 github.com/cenk/backoff v2.2.1+incompatible/go.mod h1:7FtoeaSnHoZnmZzz47cM35Y9nSW7tNyaidugnHTaFDE=
 github.com/cep21/circuit/v4 v4.0.0 h1:g1AzMmRLuwCst0eccy1nGsD/CL2XKbDnaPUHVHDvVmI=
 github.com/cep21/circuit/v4 v4.0.0/go.mod h1:Bb1fHpuiRu+AIgKf7DTM1c5U94qTZtKouKcDwtZYCXk=
+github.com/cep21/circuit/v4 v4.1.0 h1:OuTbLMvYfOEj3pQG8Qi+geepmggptK34EHau2/QlEBM=
+github.com/cep21/circuit/v4 v4.1.0/go.mod h1:5dK1Oom6i3WcMULrJfZqcVkHgWm6V6mv3n7yFPQscgI=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

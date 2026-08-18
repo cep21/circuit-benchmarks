@@ -1,10 +1,10 @@
 module github.com/cep21/circuit-benchmarks
 
-go 1.21.6
+go 1.24
 
 require (
 	github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5
-	github.com/cep21/circuit/v4 v4.1.0
+	github.com/cep21/circuit/v4 v4.2.0
 	github.com/iand/circuit v0.0.9
 	github.com/rubyist/circuitbreaker v2.2.1+incompatible
 	github.com/sony/gobreaker v1.0.0

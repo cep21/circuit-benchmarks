@@ -6,6 +6,8 @@ github.com/cep21/circuit/v4 v4.0.0 h1:g1AzMmRLuwCst0eccy1nGsD/CL2XKbDnaPUHVHDvVm
 github.com/cep21/circuit/v4 v4.0.0/go.mod h1:Bb1fHpuiRu+AIgKf7DTM1c5U94qTZtKouKcDwtZYCXk=
 github.com/cep21/circuit/v4 v4.1.0 h1:OuTbLMvYfOEj3pQG8Qi+geepmggptK34EHau2/QlEBM=
 github.com/cep21/circuit/v4 v4.1.0/go.mod h1:5dK1Oom6i3WcMULrJfZqcVkHgWm6V6mv3n7yFPQscgI=
+github.com/cep21/circuit/v4 v4.2.0 h1:EKH/OUzcQ/6UiE2JqMV00dm0xZ1PZmZGwMpdiTgZckA=
+github.com/cep21/circuit/v4 v4.2.0/go.mod h1:JsbrEm1XkFDjDtmSXr7A3tfVep+sDdvqxJHjvNNEANM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
